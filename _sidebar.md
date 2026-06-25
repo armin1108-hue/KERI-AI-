@@ -1,5 +1,7 @@
 - **소개 및 가이드**
   - [홈 (README)](KERI_AI_PUBLIC_SECTOR_TRAINING/README.md)
+  - [작업 원칙 (AGENTS)](AGENTS.md)
+  - [에이전트 설계안](docs/subagents_plan.md)
   - [강사단 운영계획](KERI_AI_PUBLIC_SECTOR_TRAINING/00_강사단_운영계획.md)
 
 - **연수 기획서**
