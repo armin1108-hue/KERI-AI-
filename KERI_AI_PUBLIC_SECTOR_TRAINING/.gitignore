@@ -1,0 +1,6 @@
+# KERI AI Public Sector Training - Security Exclusions
+# Exclude actual populated registration cards to protect personal info
+instructor_pool/*_등록카드_작성본.md
+official_letters/발송결재본/
+*.hwp
+*.pdf
